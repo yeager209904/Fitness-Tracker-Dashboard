@@ -19,7 +19,7 @@ This project visualizes your daily and weekly fitness data like steps, calories 
 
 ## 🖼️ Preview
 
-![screenshot]([https://imgur.com/a/vgYot2K](https://imgur.com/4Sg92Qf)) 
+![Dashboard Screenshot]([https://i.imgur.com/your-image.png](https://imgur.com/4Sg92Qf))
 
 ---
 
